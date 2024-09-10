@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://zniberad.github.io/sitemap/sitemap.txt
